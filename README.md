@@ -12,6 +12,7 @@
 4. Copy the entire contents of `dracula.xml` **after** `Palette1`.
 5. If you have more than one custom color scheme, rename the key of the new Dracula palette as `PaletteX`, e.g. `Palette2` if `Palette1` already exists.
 6. Save `ConEmu.xml`, close and reopen ConEmu, select `Dracula` from **Settings** / **Feature** / **Colors**.
+7. Optional: To set the selection color, go to **Settings** / **Keys & Macro** / **Mark/Copy** and in `color indexes` set `foreground` as `9` and `background` as `8`.
 
 ~~All instructions can be found at [draculatheme.com/conemu](https://draculatheme.com/conemu).~~
 
